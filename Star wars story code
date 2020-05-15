@@ -1,0 +1,19 @@
+python3
+
+print("type in your favourite character's name and see their most famous quote")
+
+
+global x
+Obi_Wan_Kenobi = Obi_Wan = "Don't try it. I have the High Ground!"
+Old_Ben_Kenobi = Ben_Kenobi = "Of course i know him. He's me!"
+Anakin_Skywalker = Anakin = " I don't like sand. It's coarse, and rough, and irritating, and it gets everywhere."
+Yoda = "Do or do not, there is no try."
+Count_Dooku = "Goood, double the pride, double the fall"
+Mace_Windu = "The council will decide your fate"
+Palpatine = "It's treason then"
+The_Emperor = 'Now you will taste the full power of the Dark Side'
+Darth_Vader = "I am your father"
+Luke_Skywalker = "NOOOOOOOOOOOO"
+
+
+print("type in your favourite character's name and see their most famous quote")
